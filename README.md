@@ -1,5 +1,3 @@
-# Hi I'm Kalab 👋
-
 🔐 **Penetration Tester🔑 & Django Backend Developer**
 
 I build and test systems from both sides — breaking APIs to uncover vulnerabilities and developing secure backend systems with Django.
