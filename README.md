@@ -1,6 +1,6 @@
 🔐 **Penetration Tester🔑 & Django Backend Developer**
 
-I build and test systems from both sides — breaking APIs to uncover vulnerabilities and developing secure backend systems with Django.
+I build and test systems from both sides,breaking APIs to uncover vulnerabilities and developing secure backend systems with Django.
 
 ---
 
@@ -20,7 +20,7 @@ I build and test systems from both sides — breaking APIs to uncover vulnerabil
 
 ---
 
-## 💪🏽 Skills & Tools
+## 💪🏽 Skills & Tools I Use Mainly
 
 * **Security Tools:** Burp Suite, Nmap, Wireshark
 * **Programming:** Python, Django, REST APIs
