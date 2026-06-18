@@ -31,7 +31,7 @@ I build and test systems from both sides,breaking APIs to uncover vulnerabilitie
 ## Current Focus
 
 * Advancing API exploitation techniques (OWASP API Top 10)
-* Building secure and scalable Django APIs
+* Building secure and scalable Fastapi APIs
 * Documenting practical labs and real-world attack scenarios
 
 🤝 Connect With Me
