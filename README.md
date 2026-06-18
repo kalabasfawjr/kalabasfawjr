@@ -1,6 +1,6 @@
-🔐 **Penetration Tester🔑 & Django Backend Developer**
+🔐 **Penetration Tester🔑 & Fastapi python Backend Dev**
 
-I build and test systems from both sides,breaking APIs to uncover vulnerabilities and developing secure backend systems with Django.
+I build and test systems from both sides,breaking APIs to uncover vulnerabilities and developing secure backend systems with fastapi.
 
 ---
 
@@ -8,7 +8,7 @@ I build and test systems from both sides,breaking APIs to uncover vulnerabilitie
 
 * 🔍 API Pentesting (Broken Auth, IDOR, Injection, Misconfigurations)
 * 🌐 Network Reconnaissance & Enumeration
-* ⚙️ Backend Development with Django & Django REST Framework
+* ⚙️ Backend Development with Fastapi
 
 ---
 
@@ -16,14 +16,14 @@ I build and test systems from both sides,breaking APIs to uncover vulnerabilitie
 
 * 🔐 **API Pentesting Labs** → ()
 * 🌐 **Network Recon Playbook** → ()
-* ⚙️ **Django Backend Projects** → ()
+* ⚙️ **Fastapi Backend Projects** → ()
 
 ---
 
 ## 💪🏽 Skills & Tools I Use Mainly
 
 * **Security Tools:** Burp Suite, Nmap, Wireshark
-* **Programming:** Python, Django, REST APIs
+* **Programming:** Python, Fastapi, REST APIs
 * **Systems:** Linux, Bash Scripting
 
 ---
